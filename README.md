@@ -45,3 +45,8 @@ Once deployed, test by attempting to log in with our generated SSH key (replacin
 * `terraform output -raw SSH_KEY > id_rsa`
 
 * `ssh -i id_rsa root@1.2.3.4`
+
+
+TODO: walk through custom image tutorial
+
+TODO: check existing standard image configurations

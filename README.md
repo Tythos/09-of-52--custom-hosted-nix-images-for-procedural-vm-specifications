@@ -47,6 +47,13 @@ Once deployed, test by attempting to log in with our generated SSH key (replacin
 * `ssh -i id_rsa root@1.2.3.4`
 
 
-TODO: walk through custom image tutorial
+[x] walk through custom image tutorial
 
-TODO: check existing standard image configurations
+[x] check existing standard image configurations
+
+[x] follow youtube tutorial for digitalocean custom images
+
+*NOTE: VDI does not appear to define bootable image from docker save? should verify
+
+[ ] check other vbox-based tutorial from official digitalocean guide
+

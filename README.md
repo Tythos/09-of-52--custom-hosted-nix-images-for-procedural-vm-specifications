@@ -57,3 +57,5 @@ Once deployed, test by attempting to log in with our generated SSH key (replacin
 
 [ ] check other vbox-based tutorial from official digitalocean guide
 
+
+https://iximiuz.com/en/posts/from-docker-container-to-bootable-linux-disk-image/
